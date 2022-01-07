@@ -10129,11 +10129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tubot\\source\\repos\\MeetUpAppAPI2\\MeetUpAppAPI2\\MeetUpAppAPI2.csproj",
+      "projectUniqueName": "C:\\Users\\tubot\\source\\MeetUpApp2\\MeetUpAppAPI2\\MeetUpAppAPI2\\MeetUpAppAPI2.csproj",
       "projectName": "MeetUpAppAPI2",
-      "projectPath": "C:\\Users\\tubot\\source\\repos\\MeetUpAppAPI2\\MeetUpAppAPI2\\MeetUpAppAPI2.csproj",
+      "projectPath": "C:\\Users\\tubot\\source\\MeetUpApp2\\MeetUpAppAPI2\\MeetUpAppAPI2\\MeetUpAppAPI2.csproj",
       "packagesPath": "C:\\Users\\tubot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tubot\\source\\repos\\MeetUpAppAPI2\\MeetUpAppAPI2\\obj\\",
+      "outputPath": "C:\\Users\\tubot\\source\\MeetUpApp2\\MeetUpAppAPI2\\MeetUpAppAPI2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

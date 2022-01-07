@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6RhKcY+dkaakSL80SZ37SDl4uQxNLadXhSgRGBA5Go/wqibAW6PFW48WrwUQTZjypk/S/LtrfStLLQeRbwv0XA==",
+  "dgSpecHash": "CqVZIn+2jEHbeDXSzNZUfQvPTJP96oLhLwFmtL9cCYTqM/P5mqtrufga/fzwqy1nCEavVC3XTt5BevWO7RChUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tubot\\source\\repos\\MeetUpAppAPI2\\MeetUpAppAPI2\\MeetUpAppAPI2.csproj",
+  "projectFilePath": "C:\\Users\\tubot\\source\\MeetUpApp2\\MeetUpAppAPI2\\MeetUpAppAPI2\\MeetUpAppAPI2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tubot\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\tubot\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
